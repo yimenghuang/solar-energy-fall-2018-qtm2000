@@ -14,7 +14,7 @@ Students are expected to complete a data analysis/machine learning project from 
 
 
 ## Dataset Description:
-The two raw datasets used in our project were obtained from *The Open PV Project* (no longer available) of the National Renewable Energy Laboratory (https://www.nrel.gov/pv/open-pv-project.html) in November 2018.
+The two raw datasets used in our project were obtained from [*The Open PV Project*](https://www.nrel.gov/pv/open-pv-project.html) (no longer available) of the National Renewable Energy Laboratory in November 2018.
 - **full Open PV Dataset:** 1,020,813 records, 81 variables
-- **Tracking the Sun Public Data File** (https://emp.lbl.gov/tracking-the-sun): 1,094,909 records, 52 variables (collected and processed by Lawrence Berkeley National Laboratory based on the full dataset)
+- [**Tracking the Sun Public Data File**](https://emp.lbl.gov/tracking-the-sun): 1,094,909 records, 52 variables (collected and processed by Lawrence Berkeley National Laboratory based on the full dataset)
 - **Note:** The datasets on the website were already updated as of 1/31/2021. In this Github repo, I will not include the original datasets (.csv) we used in the project due to copyright considerations. If anyone is interested, please DM me to discuss privately.
