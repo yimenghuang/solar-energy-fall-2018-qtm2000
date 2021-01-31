@@ -2,6 +2,7 @@
 QTM2000 Fall 2018 Final Group Project
 - **QTM 2000:** Case Studies in Business Analytics
 - **Contributors:** Yimeng (Silvia) Huang, Haorui (Raymond) Huang, Jiayan (Shirley) Ying, Xianle Jin
+- **Programming Language:** R (RStudio)
 - **Note:** In this Github repo, I will only include my own portion of code and any code necessary for cleaning and exploring the data before building models. Future students should not copy the project as their own to submit for QTM2000 Final Project.
 
 
@@ -23,3 +24,10 @@ The two raw datasets used in our project were obtained from [*The Open PV Projec
 ## Our Project:
 Solar energy is one of the cleanest and most abundant renewable energy source available today. There has been significant development due to the advancement of technology. Government incentive programs and the reduction in solar energy infrastructure costs also prompted individuals and households to consider adopting this new technology. However, the increasing rate of adoption in solar energy has sparked disruptions in both utility and oil industries. This signifies a shift in customer demand for energy and presents an interesting dynamic in the energy market. To explore more about this disruptive technology, our team is particularly interested in its energy production efficiency. We believe that this is also valuable information for customers who are considering adopting solar energy technology. This is because when making decision to install solar panels, a solar power contractor is often hired to provide information about the amount of space that is required for installation, module efficiency, system size, and etc. Therefore, based on these available information, we would like to provide additional information by constructing models to predict the annual energy production and better educate customers on the realistic return of implementing solar panels.
 - In this Github repo, I share my code of cleaning the dataset, exploring and transforming the variables, and building the kNN regression model.
+- R Packages Needed:
+  - dplyr
+  - e1071
+  - class
+  - FNN
+  - forecast
+  - caret
