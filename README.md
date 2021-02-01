@@ -31,3 +31,9 @@ Solar energy is one of the cleanest and most abundant renewable energy source av
   - FNN
   - forecast
   - caret
+
+
+## Files:
+- **Data Analytics with R for Solar PV Production Efficiency.pdf:** in-class presentation slides
+- **QTM Final Project Written Report - Team 1.pdf:** written report
+- **yimeng-knn-regression.R:** my portion of R code for cleaning the dataset, exploring and transforming the variables, and building the kNN regression model
